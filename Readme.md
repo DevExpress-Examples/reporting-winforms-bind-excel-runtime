@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/BindingReportToExcelWorkbook/Form1.cs) (VB: [Form1.vb](./VB/BindingReportToExcelWorkbook/Form1.vb))
+* [Program.cs](./CS/BindingReportToExcelWorkbook/Program.cs) (VB: [Program.vb](./VB/BindingReportToExcelWorkbook/Program.vb))
+<!-- default file list end -->
 # How to: Bind a Report to an Excel Workbook at runtime
 
 
